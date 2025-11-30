@@ -4,7 +4,7 @@ import CafeInfo from "../CafeInfo/CafeInfo";
 import type { VoteType } from "../../types/votes";
 import type Vote from "../../types/votes";
 import VoteOptions from "../VoteOptions/VoteOptions";
-import VoteStats from "../Votes/VoteStats";
+import VoteStats from "../VoteStats/VoteStats";
 import Notification from "../Notification/Notification";
 
 export default function App() {
