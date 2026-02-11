@@ -5,7 +5,7 @@ A simple and interactive feedback tracking application built with **React**. Thi
 ---
 
 ## 🚀 Technologies
-**React** | **JavaScript** | **CSS3** | **Versel**
+**React** | **JavaScript** | **CSS3** | **Vercel**
 
 ---
 
